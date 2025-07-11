@@ -1,0 +1,4 @@
+- Understand how to design and simulate different network topologies.
+- Practice using simulation tools such as Cisco Packet Tracer.
+- Apply theoretical networking concepts (e.g., IP addressing, subnetting, routing, VLANs, etc.) in practical scenarios.
+- Develop hands-on skills with network configuration and troubleshooting.
