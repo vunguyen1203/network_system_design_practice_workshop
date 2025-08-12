@@ -46,7 +46,7 @@ The goal is to build a stable, secure, and scalable network infrastructure that 
 | 6   | Wifi Router TP-Link TL-WR940N                               | 6        | 430,000          | 2,580,000         |
 | 7   |    8 Camera Hikvision                                       | 1        | 7,930,000        | 7,930,000         |
 | 8   | CAT5E J45 AMP                                               | 350      | 9,000            | 3,150,000         |
-| 9   | Cable AMP CAT5E 6-219590 (305m/cuộn)                        | 2        | 2,600,000        | 7,800,000         |
+| 9   | Cable AMP CAT5E 6-219590 (305m/roll)                        | 2        | 2,600,000        | 7,800,000         |
 | **Total** |                                                        |          |                  | **65,606,871**    |
 
 ---
