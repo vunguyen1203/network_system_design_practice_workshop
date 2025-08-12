@@ -1,11 +1,40 @@
-# Network System Design Practice Workshop
+# 🖧 Network System Design for the Practical Workshop  
+**Quang Ninh University of Industry**
 
-This repository contains practice work and exercises related to network system design. It is created as part of a workshop or study program to strengthen knowledge of network design, topology simulation, and analysis.
+## 📌 Overview
+This project focuses on designing and simulating a network system for the university's practical workshop.  
+The goal is to build a stable, secure, and scalable network infrastructure that meets the requirements of teaching and hands-on practice.
 
-## 📌 Objectives
+---
 
-- Understand how to design and simulate different network topologies.
-- Practice using simulation tools such as Cisco Packet Tracer or GNS3.
-- Apply theoretical networking concepts (e.g., IP addressing, subnetting, routing, VLANs, etc.) in practical scenarios.
-- Develop hands-on skills with network configuration and troubleshooting.
+## 🎯 Role
+**Network Designer & Simulator** – Designed the network diagram and simulated the entire system using **Cisco Packet Tracer**.
+
+---
+
+## 🔧 Key Tasks
+- 📊 **Requirements Analysis**: Analyzed usage requirements and surveyed the current network infrastructure.  
+- 🗺 **Network Topology Design**: Created optimized **physical** and **logical** topologies for the practical workshop.  
+- 🌐 **Network Configuration**: Configured **VLANs** and **inter-VLAN routing**.  
+- 🖥 **Server Deployment**: Set up servers providing  
+  - DHCP  
+  - DNS  
+  - HTTP/HTTPS  
+  - FTP  
+  - Email  
+  - IoT services  
+- 🚀 **Performance & Scalability**: Ensured stable operation, high bandwidth, and easy scalability.
+
+---
+
+## 🛠 Technologies & Tools
+- **Cisco Packet Tracer**
+- **Switches, Routers, and Servers**
+- **Network Protocols:** DHCP, DNS, HTTP/HTTPS, FTP, SMTP, IoT
+
+---
+
+## 📷 Network Diagram
+
+
 
