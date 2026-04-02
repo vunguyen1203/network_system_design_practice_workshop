@@ -15,3 +15,12 @@ This project focuses on designing and simulating a network system for the practi
 
 ## Note
 This project was completed as a university group assignment.
+
+## Logic Diagram
+![Alt text for screen readers](./logic_diagram.png)
+
+## Physical Diagram
+![Alt text for screen readers](./physical_diagram.png)
+
+## Simulator
+![Alt text for screen readers](./simulator.png)
